@@ -1,5 +1,8 @@
 # Twitter-Mining
 Twitter Mining for Demonetization Tweets 
+
+Code written in python 2.7
+
 For Crawling the tweets follow this instructions:
 
 
